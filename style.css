@@ -1,0 +1,62 @@
+
+body {
+    font-family: sans-serif;
+    background: #efb2b2d2;
+}
+header {
+    background-color: #b45f5fc9;
+ text-align: center;
+    padding: 10px;
+}
+
+  header img  {
+    height: 80px;
+    width: 80px;
+}
+
+ header a {
+    color: Black;
+    font-size:30px
+}
+main h1 {
+    color: Black;
+    text-align:center;
+    font-size:30px
+}
+table {
+border:1px
+ solid #7e4141c9;
+ background-color:#b45f5fc9;
+ }
+
+ div {
+display:inline-block;
+ margin:10px;
+ }
+
+ div img {
+ height: 177px;
+    width: 280px;
+    color: white;
+ border: none;
+ border-radius: 5px
+ }
+
+ div button {
+ background-color: red;
+ color: white;
+ border: none;
+ padding: 10px 20px;
+ border-radius: 5px;
+ }
+
+ .rty {
+height: 267px;
+width: 370px;
+color:white;
+ border:none;
+border-radius:5px;
+
+ }
+
+ 
